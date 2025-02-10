@@ -61,8 +61,7 @@ Add gameplay screenshots for better visualization:
 
 ## 🏆 Scoring System
 
-- **+1 point for each revealed cell.**
-- **Maximum score: 16 points per game.**
+- **1 point for each completed stage.**
 
 ## 🚩 Troubleshooting
 
