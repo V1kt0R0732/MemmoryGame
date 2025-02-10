@@ -47,9 +47,10 @@ A time-based game built with Laravel 11. The goal is to match all pairs of image
 
 Add gameplay screenshots for better visualization:
 
-- **Login Screen:** ![Auth Screen](screenshots/auth-screen.png)
-- **Game Board:** ![Game Board](screenshots/game-board.png)
-- **Leaderboard:** ![Leaderboard](screenshots/leaderboard.png)
+- **Login Screen:** ![Auth Screen](screenshots/main.png)
+- **Game Board:** ![Game Board](screenshots/game_start.png)
+- **Game Board 2:** ![Game Board 2](screenshots/game_play.png)
+- **Leaderboard:** ![Leaderboard](screenshots/leader_board.png)
 
 ## ⚙️ How to Play
 
@@ -93,6 +94,6 @@ This project is licensed under the MIT License.
 
 If you have any questions or suggestions:
 
-- **Email:** your.email@example.com
-- **GitHub:** [github.com/username](https://github.com/username)
-
+- **Email:** Viktor0732@ukr.net | Viktor07322370@gmail.com | 7999233@stud.kai.edu.ua
+- **GitHub:** [github.com/username](https://github.com/V1kt0R0732)
+ 
